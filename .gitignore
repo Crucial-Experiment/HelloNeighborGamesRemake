@@ -14,7 +14,6 @@ Build
 *.xcodeproj
 *.xcworkspace
 *BuiltData.uasset
-Content/Sounds/*
 Content/Sosed/*
 Content/Player/*
 Content/PrototypeFiles/*
