@@ -14,4 +14,3 @@ Build
 *.xcodeproj
 *.xcworkspace
 *BuiltData.uasset
-Content/Player/*
