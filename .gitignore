@@ -13,7 +13,7 @@ Build
 *.suo
 *.xcodeproj
 *.xcworkspace
-Content/Objects/*
+*BuiltData.uasset
 Content/WaterPlane/*
 Content/UMG/*
 Content/Sounds/*
