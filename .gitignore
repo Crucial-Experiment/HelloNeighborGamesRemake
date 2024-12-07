@@ -13,3 +13,10 @@ Build
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Objects/*
+Content/WaterPlane/*
+Content/UMG/*
+Content/Sounds/*
+Content/Sosed/*
+Content/Player/*
+Content/PrototypeFiles/*
