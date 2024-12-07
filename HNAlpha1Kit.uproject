@@ -133,6 +133,10 @@
 		{
 			"Name": "ElectraUtil",
 			"Enabled": true
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
