@@ -137,6 +137,10 @@
 		{
 			"Name": "MultiUserClient",
 			"Enabled": true
+		},
+		{
+			"Name": "DiscordRpc",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
