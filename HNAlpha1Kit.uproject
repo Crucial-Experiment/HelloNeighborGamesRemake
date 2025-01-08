@@ -137,10 +137,6 @@
 		{
 			"Name": "DiscordRpc",
 			"Enabled": true
-		},
-		{
-			"Name": "AdvancedSteamSessions",
-			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
