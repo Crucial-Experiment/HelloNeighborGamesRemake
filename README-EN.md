@@ -6,7 +6,7 @@
 Hello Neighbor Games Remake (formerly HN Alpha 1 Kit) is a fan game based on [Hello Neighbor](https://www.helloneighborgame.com/). It contains different versions of Hello Neighbor as well as Angry Neighbor. We're moving away from the standard trailers, versions, and so on and trying to make something of our own by crossing, adding, and removing.
 
 ## Installation
-* Download [Unreal Engine 5.4](https://www.unrealengine.com/en-US) via [Epic Games Launcher](https://store.epic games.com/en-US/download)
+* Download [Unreal Engine 5.4](https://www.unrealengine.com/en-US) via [Epic Games Launcher](https://store.epicgames.com/en-US/download)
 * Install all the plugins listed below on the engine via Fab:
   * Flat Nodes: https://www.fab.com/listings/7305134c-8f1c-46f4-aa9c-14381074aba5
   * CheckAppInstance: https://www.fab.com/listings/c17f1eb9-dfd8-4f41-ba30-e6c6c43d7c98
