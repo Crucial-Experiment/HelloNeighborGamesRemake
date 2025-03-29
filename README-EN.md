@@ -11,6 +11,7 @@ Hello Neighbor Games Remake (formerly HN Alpha 1 Kit) is a fan game based on [He
   * Flat Nodes: https://www.fab.com/listings/7305134c-8f1c-46f4-aa9c-14381074aba5
   * CheckAppInstance: https://www.fab.com/listings/c17f1eb9-dfd8-4f41-ba30-e6c6c43d7c98
   * Restart Unreal Editor: https://www.fab.com/listings/2e260da0-4a02-4f7b-8b97-3f783dc025f1
+  * VaRest - Rest API with Blueprints: https://www.fab.com/listings/5b751595-fe3e-4e85-b217-9b5496ab6d3f
 * Start the engine (and select HNAlpha1Kit.project in the folder where you uploaded the project) or double-click on ``HNAlpha1Kit.uproject``
 * If he swears about the lack of plugins or that they need to be rebuilt, then click "No" or close the project, and then download these plugins and replace them in the Plugins folder.:
   * GameJolt API: https://gamejolt.com/games/gjapi-bp/318270
