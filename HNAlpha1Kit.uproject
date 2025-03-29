@@ -151,6 +151,10 @@
 		{
 			"Name": "OldGuestAI",
 			"Enabled": false
+		},
+		{
+			"Name": "VaRest",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
