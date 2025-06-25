@@ -136,7 +136,7 @@
 		},
 		{
 			"Name": "DiscordRpc",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "RestartEditor",
@@ -145,7 +145,7 @@
 		},
 		{
 			"Name": "CheckAppInstance",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6a008b19e3ab40fba3f35125fc871373"
 		},
 		{
@@ -155,6 +155,14 @@
 		{
 			"Name": "VaRest",
 			"Enabled": true
+		},
+		{
+			"Name": "AdvancedSteamSessions",
+			"Enabled": false
+		},
+		{
+			"Name": "AdvancedSessions",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
