@@ -2,6 +2,12 @@
 
 [>> English Version Of The README <<](https://github.com/Crucial-Experiment/HelloNeighborGamesRemake/blob/master/README-EN.md)
 
+---
+
+**Внимание! Данный репозиторий больше не поддерживается. Если вы хотите использовать более свежую версию проекта, пожалуйста, переходите на [Hello Neighbor Kit](https://gitlab.com/Xrisofor/helloneighborkit).**
+
+---
+
 ## О проекте
 Hello Neighbor Games Remake (ранее HN Alpha 1 Kit) - это фанатская игра, основанная на [Hello Neighbor](https://www.helloneighborgame.com/). Она содержит различные версии Hello Neighbor, а также Angry Neighbor. Мы отходим от стандартных трейлеров, версий и так далее и пытаемся сделать что-то свое, скрещивая, добавляя и убирая.
 
